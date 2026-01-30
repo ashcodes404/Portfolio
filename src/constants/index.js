@@ -253,21 +253,25 @@ const socialImgs = [
     name: "insta",
     imgPath: "/images/insta.png",
     url: "https://www.instagram.com/a_.s_.h_06/",
+    invert: false, 
   },
   {
     name: "fb",
     imgPath: "/images/fb.png",
     url: "https://wa.me/9461005442",
+    invert: true
   },
   {
     name: "x",
     imgPath: "/images/x.png",
     url: "https://github.com/ashcodes404",
+    invert: true 
   },
   {
     name: "linkedin",
     imgPath: "/images/linkedin.png",
     url: "https://www.linkedin.com/in/anish-sharma-a2006bc/",
+    invert: false
   },
 ];
 
